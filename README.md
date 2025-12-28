@@ -6,9 +6,9 @@
 ![Stars](https://img.shields.io/github/stars/liuxiaomingskm/datashield-lightweight-labs?color=FFD700&style=flat-square)
 
 
-## 👋 Welcome to DataShield Labs
+## 👋 Welcome to DataShield Lightweight Labs
 
-**DataShield Labs** is an open-source initiative focused on building practical tools, frameworks, and research to enhance **data privacy**, **security**, and **AI safety** in modern software systems.
+**DataShield Lightweight Labs** is an open-source initiative focused on building practical tools, frameworks, and research to enhance **data privacy**, **security**, and **AI safety** in modern software systems.
 
 We believe that as AI systems and cloud-native applications continue to scale, safeguarding user data and enforcing robust security controls becomes a critical responsibility for every engineer. Our mission is to create accessible, developer-friendly solutions that help organizations of all sizes adopt stronger privacy and security practices.
 
